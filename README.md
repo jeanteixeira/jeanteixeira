@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Correios](https://#/)
+- 🔭 I’m currently working on [Koinz](https://www.koinz.com.br/)
 - 🌱 I’m currently learning Ruby on Rails
 - 💬 Ask me about **Ruby on Rails** and **Machine Learning**
 - 📫 How to reach me: **jean.barros.teixeira@gmail.com**
