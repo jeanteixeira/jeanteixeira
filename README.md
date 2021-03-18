@@ -1,16 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Jean Barros.</h1>
-<h3 align="center">A Back End Developer Ruby on Rails and Machine Learning Researcher</h3>
+<h3 align="center">A Data Engineer and Machine Learning Researcher</h3>
 
 
 
-- 🔭 I’m currently working on [Koinz](https://www.koinz.com.br/)
-- 🌱 I’m currently learning Ruby on Rails
-- 💬 Ask me about **Ruby on Rails** and **Machine Learning**
+- 🔭 I’m currently working on [Qconcursos](https://www.qconcursos.com/)
+- 🌱 I’m currently learning Data Engineering
+- 💬 Ask me about **Data Engineering** and **Machine Learning**
 - 📫 How to reach me: **jean.barros.teixeira@gmail.com**
 
 ## Things I am passionate about
 
-- 💻Software Development
+- 💻Data Engineering
 - 📈Machine Learning
 - 🤖Deep Learning
 - 🧠Neural Networks
